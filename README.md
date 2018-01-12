@@ -11,8 +11,8 @@ For visual view, kindly watch "Roll a Ball (Unity)" at this following link:
 ![Design](Screenshots/Design.PNG)
 
 ### Game
-![Game-1](Game_1.png)
+![Game-1](Screenshots/Game_1.png)
 
-![Game-2](Game_2.png)
+![Game-2](Screenshots/Game_2.png)
 
 
